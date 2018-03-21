@@ -1,0 +1,23 @@
+
+GitHub account :
+
+https://github.com/koustav221b/Hello-BOT.git
+
+
+For cloning  a repository in local desktop:
+https://help.github.com/articles/cloning-a-repository/
+
+Open github and go to ur repository:
+
+Clone the url by clicking the "clone or Download' option in github and copy the url
+Open git bash and move to the directory where you want the code to be pushed.
+
+git clone https://github.com/Your-Username/Your-Repository
+E.g.
+git clone https://github.com/koustav221b/Hello-BOT.git
+
+U have to have the .git file in order to run the git commands
+git status
+git add remote mygithubrepo https://github.com/koustav221b/Hello-BOT.git
+
+
